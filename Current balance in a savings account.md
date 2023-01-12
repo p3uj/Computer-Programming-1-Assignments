@@ -1,4 +1,4 @@
-# Hourly pay rate and the number of hours worked for the week of a particular employee (no overtime and no taxes)
+# Current balance in a savings account
 
 ### Instruction
 Create a program that will calculate the current balance in a savings account. 
