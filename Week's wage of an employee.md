@@ -1,4 +1,4 @@
-# Week wage of an employee
+# Week's wage of an employee
 
 ### Instruction
 Create a program that will compute for the week’s wage of an employee. Input hours worked and rate per hour.
