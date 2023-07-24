@@ -1,4 +1,4 @@
-# Lesson 3: Conditional Structure
+# Lesson 4: Control Structure
 
 ##### TABLE OF CONTENTS
 - [1.](#1)
