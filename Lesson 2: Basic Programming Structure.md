@@ -4,24 +4,17 @@
 
 - [1.](#1)
   * [1. STATEMENT](#1-statement)
-    + [Convert input hours to minutes and minutes to hour-minutes](#convert-input-hours-to-minutes-and-minutes-to-hour-minutes)
-      - [1. Instruction](#1-instruction)
-      - [Sample output:](#sample-output)
   * [1. MY SOLUTION](#1-my-solution)
   * [1. MY PROF SOLUTION](#1-my-prof-solution)
 
 - [2.](#2)
   * [2. STATEMENT](#2-statement)
-    + [Hourly pay rate and the number of hours worked for the week of a particular employee no overtime and no taxes](#hourly-pay-rate-and-the-number-of-hours-worked-for-the-week-of-a-particular-employee-no-overtime-and-no-taxes)
-    + [2. Instruction](#2-instruction)
   * [2. MY SOLUTION](#2-my-solution)
   * [2. MY PROF SOLUTION](#2-my-prof-solution)
 
 
 - [3.](#3)
   * [3. STATEMENT](#3-statement)
-    + [Current balance in a savings account](#current-balance-in-a-savings-account)
-    + [3. Instruction](#3-instruction)
   * [3. MY SOLUTION](#3-my-solution)
   * [3. MY PROF SOLUTION](#3-my-prof-solution)
 
@@ -37,7 +30,7 @@
 # 1.
 ## 1. STATEMENT
 ### Convert input hours to minutes and minutes to hour-minutes
-#### 1. Instruction
+#### Instruction
 Create a program that will convert input hours to minutes and minutes to hour minutes.
 
 #### Sample output:
@@ -55,7 +48,7 @@ Create a program that will convert input hours to minutes and minutes to hour mi
 # 2.
 ## 2. STATEMENT
 ### Hourly pay rate and the number of hours worked for the week of a particular employee no overtime and no taxes
-### 2. Instruction
+#### Instruction
 Create a program to obtain from the user the hourly pay rate and the number of hours worked for the week of a particular employee. Calculate their pay for the week (no overtime, and no taxes). Display the result.
 
 ## 2. MY SOLUTION
@@ -69,7 +62,7 @@ Create a program to obtain from the user the hourly pay rate and the number of h
 # 3.
 ## 3. STATEMENT
 ### Current balance in a savings account
-### 3. Instruction
+#### Instruction
 Create a program that will calculate the current balance in a savings account. 
 
 The program should obtain from the user the following information: 
