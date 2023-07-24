@@ -1,9 +1,8 @@
-# Programming-1-Assignments
-It includes all the answers to the assignments in programming 1 subject.
+# Computer Programming 1 - Assignments
+This contains all the answers to the assignments in the subject of computer programming 1.
 
   - ## Mid-Term
 
-  
 Lesson | Statement| My Solution | My Prof Solution |
 |--|--|--|--|
 [Lesson 2: Basic Programming Structure](https://github.com/p3uj/Programming-1-Assignments/blob/1e2ad4f45446c190b9bca0d9bbb28b5057be47e4/Lesson%202%3A%20Basic%20Programming%20Structure.md) | [Convert input hours to minutes and minutes to hour-minutes](https://github.com/p3uj/Programming-1-Assignments/blob/1e2ad4f45446c190b9bca0d9bbb28b5057be47e4/Lesson%202%3A%20Basic%20Programming%20Structure.md#1-statement)| **[1]**[Solution 1: Convert input hours to minutes and minutes to hour-minutes.c](https://github.com/p3uj/Programming-1-Assignments/blob/88541412908eb4341079e810a58516f30140481b/Solution%201:%20Convert%20input%20hours%20to%20minutes%20and%20minutes%20to%20hour-minutes.c) **[2]**[Solution 2: Convert input hours to minutes and minutes to hour-minutes.c](https://github.com/p3uj/Programming-1-Assignments/blob/8e1245bed00f166ba161f972d9932b3d7ab0b113/Solution%202:%20Convert%20input%20hours%20to%20minutes%20and%20minutes%20to%20hour-minutes.c)| **[1]**[Sol 1: Convert input hours to minutes and minutes to hour-minutes.c](https://github.com/p3uj/Programming-1-Assignments/blob/3b8a022b29122b9398497929b04dc918df14c8c8/Sol%201:%20Convert%20input%20hours%20to%20minutes%20and%20minutes%20to%20hour-minutes.c) **[2]**[Sol 2: Convert input hours to minutes and minutes to hour-minutes.c](https://github.com/p3uj/Programming-1-Assignments/blob/0baa53b8197adab054a1ef74c8cea54ae341d813/Sol%202:%20Convert%20input%20hours%20to%20minutes%20and%20minutes%20to%20hour-minutes.c)
